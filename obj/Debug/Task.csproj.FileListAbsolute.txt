@@ -1,0 +1,9 @@
+C:\Users\Ghost\source\repos\Task\Task\bin\Debug\Task.exe.config
+C:\Users\Ghost\source\repos\Task\Task\bin\Debug\Task.exe
+C:\Users\Ghost\source\repos\Task\Task\bin\Debug\Task.pdb
+C:\Users\Ghost\source\repos\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\Ghost\source\repos\Task\Task\obj\Debug\Task.Form1.resources
+C:\Users\Ghost\source\repos\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Ghost\source\repos\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\Ghost\source\repos\Task\Task\obj\Debug\Task.exe
+C:\Users\Ghost\source\repos\Task\Task\obj\Debug\Task.pdb
